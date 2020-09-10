@@ -1,0 +1,12 @@
+body{
+    background-color: cadetblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+#body-id{
+    background-color: coral;
+}
+
+.body-class{
+    background-color: cornflowerblue;
+}
